@@ -10,7 +10,6 @@
         <File Path="Directory.Packages.props"/>
         <File Path="Directory.Build.props"/>" /&gt;
         <File Path="NuGet.config"/>
-        <File Path="README.md"/>
         <File Path="global.json"/>
     </Folder>
 </Solution>
